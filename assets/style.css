@@ -1,0 +1,23 @@
+h1 {
+    text-transform: uppercase;
+}
+
+.cont img {
+    width: 400px;
+    height: 380px;
+    border-radius: 50%;
+    
+ }
+
+ b{
+    font-family: 'Merriweather', serif;
+ }
+
+ p{
+    font-family: 'Merriweather', serif;
+}
+
+.dop img{
+    height: 150px;
+    width: 200px;
+}
